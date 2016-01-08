@@ -6,7 +6,7 @@
 npm install --save-dev gulp-sass gulp-minify-css gulp-rename gulp-concat gulp-uglify gulp-imagemin
 ```
 
-#### 2.then run
+#### 2.Then run
 
 ```sh
 gulp
@@ -17,8 +17,8 @@ That's it! no need for step 3.
 # Example
 
 * Create `img` `js` and `scss` folder.
-* add some files and data to these folder that you just created.
-* run this command
+* Add some files and data to these folder that you just created.
+* Run this command
 
 ```sh
 gulp
