@@ -1,5 +1,7 @@
 # Getting Started
 
+![Gulp FrontEnd Receipt](https://raw.github.com/jir4yu/gulp-front-end/master/gulp-frontend.png)
+
 #### 1.Install modules with this command, wait a second or grab some coffee.
 
 ```sh
