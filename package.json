@@ -1,0 +1,34 @@
+{
+  "name": "gulp-front-end",
+  "version": "1.0.0",
+  "description": "Frontend receipt for GulpJS. include SASS, minify-concat JavaScript and minify images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jir4yu/gulp-front-end.git"
+  },
+  "keywords": [
+    "GulpJS",
+    "jir4yu",
+    "SASS",
+    "JS"
+  ],
+  "author": "Jirayu Limjinda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jir4yu/gulp-front-end/issues"
+  },
+  "homepage": "https://github.com/jir4yu/gulp-front-end#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1"
+  }
+}
