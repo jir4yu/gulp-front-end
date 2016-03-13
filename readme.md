@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started [![Build Status](https://travis-ci.org/jir4yu/gulp-front-end.svg?branch=master)](https://travis-ci.org/jir4yu/gulp-front-end)
 
 ![Gulp FrontEnd Receipt](https://raw.githubusercontent.com/jir4yu/gulp-front-end/master/gulp-frontend.png)
 
